@@ -80,7 +80,7 @@
 
 <table>
     <caption>
-        <h3>Current Stats<:/h3>
+        <h3>Current Stats:</h3>
     </caption>
     <tr>
         <td rowspan="2">
