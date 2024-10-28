@@ -102,22 +102,11 @@
     </a>
 </p>
 
-<p id="top-langs">
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ojhaprathmesh&show_icons=true&locale=en&layout=compact"
-        alt="ojhaprathmesh"
-        height="100px"/>
-</p>
-
-<p id="github-stats">&nbsp;
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=ojhaprathmesh&show_icons=true&locale=en"
-        alt="ojhaprathmesh"
-        height="100px"/>
-</p>
-
-<p id="streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojhaprathmesh&"
-        alt="ojhaprathmesh"
-        height="100px"/>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojhaprathmesh&show_icons=true&locale=en&layout=compact"
+        alt="ojhaprathmesh" height="100px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ojhaprathmesh&show_icons=true&locale=en"
+        alt="ojhaprathmesh" height="100px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojhaprathmesh&" alt="ojhaprathmesh"
+        height="100px" />
 </p>
