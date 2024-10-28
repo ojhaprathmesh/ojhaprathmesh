@@ -8,7 +8,7 @@
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=ojhaprathmesh" alt="ojhaprathmesh" /></a>
+            src="https://github-profile-trophy.vercel.app/?username=ojhaprathmesh&column=-1&theme=onestar" alt="ojhaprathmesh"/></a>
 </p>
 
 <p align="left">
