@@ -8,7 +8,7 @@
         </a>
     </p>
     <p align="left" class="social-links">
-        <a href="https://twitter.com/ojhaprathmesh" target="blank" style="text-decoration:none;">
+        <a href="https://twitter.com/ojhaprathmesh" target="blank" style="text-decoration: none;">
             <img src="https://img.shields.io/twitter/follow/ojhaprathmesh?logo=twitter&style=for-the-badge"
                 alt="ojhaprathmesh" height="25px" />
         </a>
