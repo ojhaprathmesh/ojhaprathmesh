@@ -78,8 +78,10 @@
     </a>
 </p>
 
-<h3 align="center">Current Stats</h3>
 <table>
+    <caption>
+        <h3>Current Stats<:/h3>
+    </caption>
     <tr>
         <td rowspan="2">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojhaprathmesh&show_icons=true&locale=en&layout=donut-vertical"
