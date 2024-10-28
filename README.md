@@ -8,7 +8,7 @@
         </a>
     </p>
     <p align="left" class="social-links">
-        <a href="https://twitter.com/ojhaprathmesh" target="blank">
+        <a href="https://twitter.com/ojhaprathmesh" target="blank" style="text-decoration:none;">
             <img src="https://img.shields.io/twitter/follow/ojhaprathmesh?logo=twitter&style=for-the-badge"
                 alt="ojhaprathmesh" height="25px" />
         </a>
@@ -106,16 +106,19 @@
 <p id="top-langs">
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ojhaprathmesh&show_icons=true&locale=en&layout=compact"
-        alt="ojhaprathmesh" />
+        alt="ojhaprathmesh"
+        height="100px"/>
 </p>
 
 <p id="github-stats">&nbsp;
-    <img align="center"
+    <img
         src="https://github-readme-stats.vercel.app/api?username=ojhaprathmesh&show_icons=true&locale=en"
-        alt="ojhaprathmesh" />
+        alt="ojhaprathmesh"
+        height="100px"/>
 </p>
 
 <p id="streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojhaprathmesh&"
-        alt="ojhaprathmesh" />
+        alt="ojhaprathmesh"
+        height="100px"/>
 </p>
