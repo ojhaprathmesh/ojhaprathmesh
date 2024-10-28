@@ -104,9 +104,9 @@
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojhaprathmesh&show_icons=true&locale=en&layout=compact"
-        alt="ojhaprathmesh" height="100px" width="250px"/>
+        alt="ojhaprathmesh" height="140px"/>
     <img src="https://github-readme-stats.vercel.app/api?username=ojhaprathmesh&show_icons=true&locale=en"
-        alt="ojhaprathmesh" height="100px" width="250px"/>
+        alt="ojhaprathmesh" height="140px"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojhaprathmesh&" alt="ojhaprathmesh"
-        height="100px" width="250px"/>
+        height="140px"/>
 </p>
