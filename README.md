@@ -118,8 +118,3 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojhaprathmesh&"
         alt="ojhaprathmesh" />
 </p>
-
-<script>
-    let intro = document.getElementById("introduction");
-    intro.style.backgroundColor="purple";
-</script>
