@@ -17,7 +17,7 @@
 
 <p align="left">
     <a href="https://twitter.com/ojhaprathmesh" target="blank"><img
-            src="https://img.shields.io/twitter/follow/ojhaprathmesh?logo=twitter"
+            src="https://img.shields.io/twitter/follow/ojhaprathmesh?logo=twitter&style=for-the-badge"
             alt="ojhaprathmesh" /></a>
 </p>
 
