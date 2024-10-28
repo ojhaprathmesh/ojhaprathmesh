@@ -2,8 +2,10 @@
 <h3 align="center">B.Tech CSE Student | Passionate about Technology and Innovation | India</h3>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ojhaprathmesh&label=Profile%20views&color=0e75b6&style=flat"
-        alt="ojhaprathmesh" />
+    <a href="#">
+        <img src="https://komarev.com/ghpvc/?username=ojhaprathmesh&label=Profile%20views&color=0e75b6&style=flat"
+            alt="ojhaprathmesh" />
+    </a>
 </p>
 
 <p align="left">
