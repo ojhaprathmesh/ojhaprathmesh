@@ -78,17 +78,27 @@
     </a>
 </p>
 
-<h3 align="center">Current Stats</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojhaprathmesh&show_icons=true&locale=en&layout=compact"
-        alt="ojhaprathmesh" height="110px" width="260px"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=ojhaprathmesh&show_icons=true&locale=en"
-        alt="ojhaprathmesh" height="110px" width="260px" />
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojhaprathmesh&" alt="ojhaprathmesh"
-        height="110px" />
-</p>
+<table>
+    <caption>
+        <h3>Current Stats:</h3>
+    </caption>
+    <tr>
+        <td rowspan="2">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojhaprathmesh&show_icons=true&locale=en&layout=donut-vertical"
+                alt="ojhaprathmesh" />
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=ojhaprathmesh&show_icons=true"
+                alt="ojhaprathmesh" height="170px"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojhaprathmesh" alt="ojhaprathmesh"
+                height="170px" width="407.125px"/>
+        </td>
+    </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" class="social-icons">
