@@ -7,7 +7,7 @@
                 alt="ojhaprathmesh" />
         </a>
     </p>
-    <p align="left" class="social-links" style="text-decoration: none;">
+    <p align="left" class="social-links">
         <a href="https://twitter.com/ojhaprathmesh" target="blank">
             <img src="https://img.shields.io/twitter/follow/ojhaprathmesh?logo=twitter&style=for-the-badge"
                 alt="ojhaprathmesh" height="25px" />
@@ -30,8 +30,7 @@
 </ul>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" class="social-icons"
-    style="display: flex; justify-content: space-between; width: fit-content; column-gap: 20px;">
+<p align="left" class="social-icons">
     <a href="https://twitter.com/ojhaprathmesh" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -55,7 +54,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p class="languages-tools" style="display: flex; justify-content: space-between;">
+<p class="languages-tools">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="50" height="50" />
