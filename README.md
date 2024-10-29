@@ -1,4 +1,6 @@
-![Header](./github-header-image.png)
+<p align="center">
+    <img src="./docs/github-header-image.png" alt="ojhaprathmesh" />
+</p>
 <div id="introduction">
     <h1 align="center">Hi 👋, I'm Prathmesh Ojha</h1>
     <h3 align="center">B.Tech CSE Student | Passionate about Technology and Innovation | India</h3>
