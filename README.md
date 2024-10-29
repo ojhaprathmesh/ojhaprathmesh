@@ -26,7 +26,7 @@
             Analysis for Drinking Water Information</a></li>
     <li>💬 Ask me about <strong>Python</strong></li>
     <li>📄 Know about my experiences: <a
-            href="https://github.com/ojhaprathmesh/ojhaprathmesh/blob/main/docs/Resume-Canva.pdf">Resume</a></li>
+            href="https://github.com/ojhaprathmesh/ojhaprathmesh/blob/main/docs/Resume-Canva.pdf">Resume.pdf</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -84,7 +84,7 @@
     </caption>
     <tr>
         <td rowspan="2">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojhaprathmesh&show_icons=true&locale=en&layout=donut-vertical&langs_count=5"
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojhaprathmesh&show_icons=true&locale=en&layout=donut-vertical&langs_count=5&exclude_repo=Pygame-Project1,Sigma-Web-Dev-Course-CWH,SAVYA_Repo,Osumare-Website-Clone"
                 alt="ojhaprathmesh" />
         </td>
         <td>
