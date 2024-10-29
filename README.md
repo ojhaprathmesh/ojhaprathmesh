@@ -2,7 +2,6 @@
     <img src="./docs/github-header-image.png" alt="ojhaprathmesh" />
 </p>
 <div id="introduction">
-    <h1 align="center">Hi 👋, I'm Prathmesh Ojha</h1>
     <h3 align="center">B.Tech CSE Student | Passionate about Technology and Innovation | India</h3>
     <p align="center" class="trophy-section">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
