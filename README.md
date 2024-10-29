@@ -88,7 +88,7 @@
                 alt="ojhaprathmesh" />
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=ojhaprathmesh&show_icons=true&hide=issues&show=prs_merged&theme=ambient_gradient&hide_border=true"
+            <img src="https://github-readme-stats.vercel.app/api?username=ojhaprathmesh&show_icons=true&hide=issues&show=prs_merged&theme=ambient_gradient&hide_border=true&rank_icon=github"
                 alt="ojhaprathmesh" height="170px"/>
         </td>
     </tr>
