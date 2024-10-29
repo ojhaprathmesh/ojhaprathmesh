@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <div id="introduction">
     <h1 align="center">Hi 👋, I'm Prathmesh Ojha</h1>
     <h3 align="center">B.Tech CSE Student | Passionate about Technology and Innovation | India</h3>
