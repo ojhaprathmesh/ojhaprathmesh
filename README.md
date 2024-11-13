@@ -124,3 +124,8 @@
             alt="ojhaprathmesh" height="37.5px" width="50" />
     </a>
 </p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="ojhaprathmesh" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ojhaprathmesh?trk=profile-badge">
+        Prathmesh Ojha
+    </a>
+</div>
