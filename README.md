@@ -9,6 +9,9 @@
                 alt="ojhaprathmesh" />
         </a>
     </p>
+    <a href="https://holopin.io/@ojhaprathmesh">
+        <img src="https://holopin.me/ojhaprathmesh"/>
+    </a>
     <p align="left" class="social-links">
         <a href="https://twitter.com/ojhaprathmesh" target="blank">
             <img src="https://img.shields.io/twitter/follow/ojhaprathmesh?logo=twitter&style=for-the-badge"
@@ -86,7 +89,7 @@
     </caption>
     <tr>
         <td rowspan="2">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojhaprathmesh&show_icons=true&locale=en&layout=donut-vertical&langs_count=5&exclude_repo=Pygame-Project1,Sigma-Web-Dev-Course-CWH,SAVYA_Repo,Osumare-Website-Clone"
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojhaprathmesh&show_icons=true&locale=en&layout=donut-vertical&langs_count=6"
                 alt="ojhaprathmesh" />
         </td>
         <td>
@@ -116,7 +119,7 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="ojhaprathmesh" height="37.5px" width="50" />
     </a>
-    <a href="https://www.youtube.com/c/ojhaprathmesh" target="blank">
+    <a href="https://www.youtube.com/@ojhaprathmesh" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="ojhaprathmesh" height="37.5px" width="50" />
     </a>
