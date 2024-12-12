@@ -2,7 +2,7 @@
     <img src="./docs/github-header-image.png" alt="ojhaprathmesh" />
 </p>
 <div id="introduction">
-    <h3 align="center">B.Tech CSE Student | Passionate about Technology and Innovation | India</h3>
+    <h1 align="center">B.Tech CSE Student | Passionate about Technology and Innovation | India</h1>
     <p align="center" class="trophy-section">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=ojhaprathmesh&column=-1&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=20"
@@ -26,7 +26,7 @@
 
 <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/ojhaprathmesh/Beat.it">Beat.it</a></li>
-    <li>🌱 I’m currently learning <strong>React.js, C#</strong></li>
+    <li>🌱 I’m currently learning **React.js, Express.js and Node.js**</strong></li>
     <li>🤝 I’m looking for help with <a href="https://github.com/ojhaprathmesh/ASADWI_Repo">ASADWI: AI-based Spatial
             Analysis for Drinking Water Information</a></li>
     <li>💬 Ask me about <strong>Python</strong></li>
@@ -108,19 +108,23 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" class="social-icons">
     <a href="https://twitter.com/ojhaprathmesh" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="ojhaprathmesh" height="37.5px" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="ojhaprathmesh" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/ojhaprathmesh" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="ojhaprathmesh" height="37.5px" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="ojhaprathmesh" height="30" width="40" /
+    </a>
+    <a href="https://stackoverflow.com/users/28758834/ojhaprathmesh" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="ojhaprathmesh" height="30" width="40" />
     </a>
     <a href="https://instagram.com/ojhaprathmesh" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="ojhaprathmesh" height="37.5px" width="50" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="ojhaprathmesh" height="30" width="40" />
     </a>
-    <a href="https://www.youtube.com/@ojhaprathmesh" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="ojhaprathmesh" height="37.5px" width="50" />
+    <a href="https://www.leetcode.com/ojhaprathmesh" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="ojhaprathmesh" height="30" width="40" />
     </a>
 </p>
