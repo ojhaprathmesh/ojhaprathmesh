@@ -25,13 +25,13 @@
 </div>
 
 <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/ojhaprathmesh/Beat.it">Beat.it</a></li>
-    <li>🌱 I’m currently learning **React.js, Express.js and Node.js**</strong></li>
-    <li>🤝 I’m looking for help with <a href="https://github.com/ojhaprathmesh/ASADWI_Repo">ASADWI: AI-based Spatial
-            Analysis for Drinking Water Information</a></li>
-    <li>💬 Ask me about <strong>Python</strong></li>
+    <li>🔭 I’m currently working on <a href="https://github.com/ojhaprathmesh/Beat.it"><em>Beat.it</em></a></li>
+    <li>🌱 I’m currently learning <strong><em>React.js, Express.js and Node.js</em></strong></li>
+    <li>🤝 I’m looking for help with <a href="https://github.com/ojhaprathmesh/ASADWI_Repo"><em>ASADWI: AI-based Spatial
+            Analysis for Drinking Water Information</em></a></li>
+    <li>💬 Ask me about <strong><em>Python</em></strong></li>
     <li>📄 Know about my experiences: <a
-            href="https://github.com/ojhaprathmesh/ojhaprathmesh/blob/main/docs/Resume-Canva.pdf">Resume.pdf</a></li>
+            href="https://github.com/ojhaprathmesh/ojhaprathmesh/blob/main/docs/Resume-Canva.pdf"><em>Resume.pdf</em></a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
