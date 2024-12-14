@@ -2,7 +2,7 @@
     <img src="./docs/github-header-image.png" alt="ojhaprathmesh" />
 </p>
 <div id="introduction">
-    <h1 align="center">B.Tech CSE Student | Passionate about Technology and Innovation | India</h1>
+    <h2 align="center">B.Tech CSE Student | Passionate about Technology and Innovation | India</h2>
     <p align="center" class="trophy-section">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=ojhaprathmesh&column=-1&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=20"
