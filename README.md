@@ -44,7 +44,7 @@
     </caption>
     <tr>
         <td rowspan="2">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojhaprathmesh&show_icons=true&locale=en&layout=donut-vertical&langs_count=8"
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojhaprathmesh&show_icons=true&locale=en&layout=donut-vertical&langs_count=10"
                 alt="ojhaprathmesh" />
         </td>
         <td>
