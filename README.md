@@ -25,7 +25,7 @@
 </div>
 
 <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/ojhaprathmesh/Beat.it"><em>Beat.it</em></a></li>
+    <li>🔭 I’m currently working on <a href="https://github.com/ojhaprathmesh/67th-Milestone-2025"><em>College Fest Website</em></a></li>
     <li>🌱 I’m currently learning <strong><em>React.js, Express.js and Node.js</em></strong></li>
     <li>🤝 I’m looking for help with <a href="https://github.com/ojhaprathmesh/ASADWI_Repo"><em>ASADWI: AI-based Spatial
             Analysis for Drinking Water Information</em></a></li>
