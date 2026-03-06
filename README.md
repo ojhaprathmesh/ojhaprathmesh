@@ -12,7 +12,7 @@
     <a href="https://holopin.io/@ojhaprathmesh">
         <img src="https://holopin.me/ojhaprathmesh"/>
     </a>
-    <p align="left" class="social-links">
+    <!-- <p align="left" class="social-links">
         <a href="https://twitter.com/ojhaprathmesh" target="blank">
             <img src="https://img.shields.io/twitter/follow/ojhaprathmesh?logo=twitter&style=for-the-badge"
                 alt="ojhaprathmesh" height="25px" />
@@ -21,7 +21,7 @@
             <img src="https://komarev.com/ghpvc/?username=ojhaprathmesh&label=Profile%20Views&color=0e75b6&style=flat"
                 alt="ojhaprathmesh" height="25px" />
         </a>
-    </p>
+    </p> -->
 </div>
 
 <ul>
