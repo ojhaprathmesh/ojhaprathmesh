@@ -9,9 +9,9 @@
                 alt="ojhaprathmesh" />
         </a>
     </p> -->
-    <a href="https://holopin.io/@ojhaprathmesh">
+    <!-- <a href="https://holopin.io/@ojhaprathmesh">
         <img src="https://holopin.me/ojhaprathmesh"/>
-    </a>
+    </a> -->
     <!-- <p align="left" class="social-links">
         <a href="https://twitter.com/ojhaprathmesh" target="blank">
             <img src="https://img.shields.io/twitter/follow/ojhaprathmesh?logo=twitter&style=for-the-badge"
@@ -25,13 +25,35 @@
 </div>
 
 <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/ojhaprathmesh/67th-Milestone-2025"><em>College Fest Website</em></a></li>
-    <li>🌱 I’m currently learning <strong><em>React.js, Express.js and Node.js</em></strong></li>
-    <li>🤝 I’m looking for help with <a href="https://github.com/ojhaprathmesh/ASADWI_Repo"><em>ASADWI: AI-based Spatial
-            Analysis for Drinking Water Information</em></a></li>
+    <li>🔭 I’m currently working on 
+        <a href="https://github.com/ojhaprathmesh/AngelFive_Repo">
+            <em>
+                Angel Five
+            </em>
+        </a>
+    </li>
+    <li>🌱 I’m currently learning 
+        <strong>
+            <em>
+                Next.js and Django
+            </em>
+        </strong>
+    </li>
+    <li>🤝 I’m looking for help with 
+        <a href="https://github.com/ojhaprathmesh/Beat.it_Repo">
+            <em>
+                Beat.It: Full Stack Music Player
+            </em>
+        </a>
+    </li>
     <li>💬 Ask me about <strong><em>Python</em></strong></li>
-    <li>📄 Know about my experiences: <a
-            href="https://github.com/ojhaprathmesh/ojhaprathmesh/blob/main/docs/Resume-Canva.pdf"><em>Resume.pdf</em></a></li>
+    <li>📄 Know about my experiences: 
+        <a href="https://github.com/ojhaprathmesh/ojhaprathmesh/blob/main/docs/Updated_Resume.pdf">
+            <em>
+                Resume.pdf
+            </em>
+        </a>
+    </li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
