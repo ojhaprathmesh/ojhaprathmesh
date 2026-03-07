@@ -40,7 +40,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://count.getloli.com/@:ojhaprathmesh?theme=sketch-1&padding=7&scale=1&align=top&pixelated=0&darkmode=auto"  />
 </div>
 
