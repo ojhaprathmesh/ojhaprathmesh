@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Streak</h3>
+<h4 align="left">Streak</h4>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Statistics</h3>
+<h4 align="left">Statistics</h4>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">Profile Views</h3>
+<h4 align="left">Profile Views</h4>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">Known Technologies</h3>
+<h4 align="left">Known Technologies</h4>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<h3 align="left">Social Media</h3>
+<h4 align="left">Social Media</h4>
 
 ###
 
