@@ -1,10 +1,10 @@
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=50&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
 ###
 
-<h2 align="left">Streak</h2>
+<h3 align="left">Streak</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Statistics</h2>
+<h3 align="left">Statistics</h3>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Profile Views</h2>
+<h3 align="left">Profile Views</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Known Technologies</h2>
+<h3 align="left">Known Technologies</h3>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h3 align="left">Social Media</h3>
 
 ###
 
@@ -104,7 +104,7 @@
 
 ###
 
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=50&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
