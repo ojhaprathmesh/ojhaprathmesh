@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=50&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=ojhaprathmesh&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -18,21 +18,21 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojhaprathmesh&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojhaprathmesh/ojhaprathmesh/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ojhaprathmesh/ojhaprathmesh/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ojhaprathmesh/ojhaprathmesh/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
-<img src="https://raw.githubusercontent.com/ojhaprathmesh/ojhaprathmesh/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/ojhaprathmesh/ojhaprathmesh/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
@@ -104,7 +104,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=50&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
