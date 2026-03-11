@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Streak</h3>
+<h3 align="center">Streak</h3>
 
 ###
 
