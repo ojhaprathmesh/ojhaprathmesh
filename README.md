@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=50&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
@@ -14,11 +14,11 @@
 
 ###
 
-<h3 align="left">Statistics</h3>
+<h3 align="center">Statistics</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojhaprathmesh&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">Profile Views</h3>
+<h3 align="center">Profile Views</h3>
 
 ###
 
@@ -46,13 +46,13 @@
 
 ###
 
-<h3 align="left">Known Technologies</h3>
+<h3 align="center">Known Technologies</h3>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -92,11 +92,11 @@
 
 ###
 
-<h3 align="left">Social Media</h3>
+<h3 align="center">Social Media</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/ojhaprathmesh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -104,7 +104,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=50&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
