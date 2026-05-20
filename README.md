@@ -57,11 +57,11 @@ const prathmesh = {
 <a href="https://github.com/ojhaprathmesh">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/ojhaprath">
+<a href="https://www.linkedin.com/in/ojhaprathmesh">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:prathmesh.ojha.23cse@bmu.edu.in">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://leetcode.com/ojhaprathmesh">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=ojhaprathmesh&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
