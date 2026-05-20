@@ -1,113 +1,167 @@
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=50&descAlign=50&descAlignY=50&theme=onedark"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Prathmesh%20Ojha&fontAlign=50&fontAlignY=40&color=0:0d1117,50:1f6feb,100:58a6ff&fontColor=ffffff&fontSize=52&desc=Full%20Stack%20Engineer%20•%20Problem%20Solver%20•%20System%20Design&descAlignY=60&animation=fadeIn" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer+with+3%2B+Years+Experience;React.js+%7C+Node.js+%7C+MongoDB+%7C+System+Design;1500%2B+DSA+Problems+Solved;Building+Scalable+and+Clean+Software+Architectures" />
+
 </div>
 
-###
+---
 
-<h3 align="center">Streak</h3>
-
-###
+## 💫 About Me
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ojhaprathmesh&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+
+<table>
+<tr>
+<td>
+
+<pre>
+const prathmesh = {
+  role: "Software Engineer",
+  experience: "3+ Years",
+  specialization: [
+    "Full-Stack Development",
+    "Scalable Web Applications",
+    "System Design",
+    "Product Engineering"
+  ],
+  techStack: {
+    frontend: ["React.js", "Next.js", "TypeScript", "TailwindCSS"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB", "PostgreSQL"],
+    languages: ["JavaScript", "TypeScript", "Java", "Python"]
+  },
+  achievements: {
+    dsa: "1500+ Problems Solved",
+    focus: [
+      "Clean Architecture",
+      "Performance Optimization",
+      "Scalable Systems"
+    ]
+  }
+};
+</pre>
+
+</td>
+</tr>
+</table>
+
 </div>
 
-###
+---
 
-<h3 align="center">Statistics</h3>
-
-###
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojhaprathmesh&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+
+<a href="https://github.com/ojhaprathmesh">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ojhaprath">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://codeforces.com/">
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojhaprathmesh/ojhaprathmesh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ojhaprathmesh/ojhaprathmesh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ojhaprathmesh/ojhaprathmesh/output/pacman-contribution-graph.svg">
-</picture> -->
-
-###
-
-<!-- <img src="https://raw.githubusercontent.com/ojhaprathmesh/ojhaprathmesh/output/snake.svg" alt="Snake animation" /> -->
-
-###
-
-<h3 align="center">Known Technologies</h3>
-
-###
-
-<br clear="both">
+## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-</div>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,ts,js,java,python,docker,tailwind,redux,firebase,git,github,linux,vscode,figma&perline=9" />
+
 </div>
 
-###
+---
 
-<h3 align="center">Social Media</h3>
-
-###
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ojhaprathmesh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojhaprathmesh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojhaprathmesh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+
 </div>
 
-###
+---
 
-<h3 align="center">Profile Views</h3>
-
-###
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://count.getloli.com/@:ojhaprathmesh?theme=sketch-1&padding=7&scale=1&align=top&pixelated=0&darkmode=auto"  />
+
+<img src="https://streak-stats.demolab.com?user=ojhaprathmesh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
 </div>
 
-###
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=50&descAlign=50&descAlignY=50&theme=onedark"  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ojhaprathmesh&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"/>
+
 </div>
 
-###
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ojhaprathmesh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 🧠 Competitive Programming
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/ojhaprathmesh?theme=dark&font=Nunito&ext=contest"/>
+
+</div>
+
+---
+
+## 🚀 Engineering Focus
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+Scalable Architectures • Performance Optimization • Clean Code  
+Backend Systems • Product Engineering • Distributed Systems  
+DSA • Problem Solving • System Design
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ojhaprathmesh&label=Profile%20Views&color=1f6feb&style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:1f6feb,100:58a6ff"/>
+
+</div>
